@@ -1,0 +1,30 @@
+_repo: The-Evolution-of-Modern-CapitalismA-Study-of-Machine-Production_28284
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hobson, J. A. (John Atkinson)
+    alias: Hobson, John Atkinson
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '3647'
+    url: http://www.gutenberg.org/2009/agents/3647
+    wikipedia: http://en.wikipedia.org/wiki/John_A._Hobson
+description: ''
+gutenberg_issued: '2009-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Industries -- History'
+- !lcsh 'Capitalism'
+- !lcsh 'Machinery in the workplace'
+title: 'The Evolution of Modern Capitalism: A Study of Machine Production'
+url: http://www.gutenberg.org/ebooks/28284
