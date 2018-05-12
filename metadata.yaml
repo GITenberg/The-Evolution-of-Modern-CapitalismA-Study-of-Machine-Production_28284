@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3647
     wikipedia: http://en.wikipedia.org/wiki/John_A._Hobson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28284#The-Evolution-of-Modern-CapitalismA-Study-of-Machine-Production
 gutenberg_issued: '2009-03-09'
 gutenberg_type: Text
 identifiers:
